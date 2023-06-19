@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://127.0.0.1/deba-deba');
+mongoose.connect('mongodb://127.0.0.1/deba-deba2');
 //mongoose.connect('mongodb://localhost/mydb');
 
 
